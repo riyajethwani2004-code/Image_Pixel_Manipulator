@@ -2,7 +2,7 @@
 <p align="center"><b>A NumPy-only image pixel manipulator that creates, edits and filters synthetic images, with different random output on every run.</b></p>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/YOUR_USERNAME/image-pixel-manipulator/blob/main/image_pixel_manipulator.ipynb">
+  <a href="https://colab.research.google.com/github/riyajethwani2004-code/image-pixel-manipulator/blob/main/image_pixel_manipulator.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
   </a>
 </p>
@@ -90,7 +90,7 @@ All filters take an image array and return one, with no external image libraries
 
 **Option B: Local notebook**
 ```bash
-git clone https://github.com/YOUR_USERNAME/image-pixel-manipulator.git
+git clone https://github.com/riyajethwani2004-code/image-pixel-manipulator.git
 cd image-pixel-manipulator
 pip install -r requirements.txt
 jupyter notebook image_pixel_manipulator.ipynb
