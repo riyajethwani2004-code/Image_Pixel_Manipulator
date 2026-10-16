@@ -120,7 +120,7 @@ Image_Pixel_Manipulator/
 ├── image_pixel_manipulator.ipynb   # Main Google Colab notebook
 ├── pixel_toolkit.py                # Image processing functions
 ├── requirements.txt                # Required Python libraries
-├── outputs/                        # Sample output images (8 PNG files)
+├── outputs/                        # Sample output images (5 PNG files)
 └── README.md                       # Project documentation
 ```
 
