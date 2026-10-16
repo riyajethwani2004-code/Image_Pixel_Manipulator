@@ -116,12 +116,12 @@ glitched = FILTERS["glitch"](img, rng)
 ## 📁 Project Structure
 
 ```
-image-pixel-manipulator/
-├── image_pixel_manipulator.ipynb   # step-by-step walkthrough (self-contained)
-├── pixel_toolkit.py                # same toolkit as a reusable module + CLI
-├── requirements.txt
-├── outputs/                        # sample PNG results
-└── README.md
+Image_Pixel_Manipulator/
+├── image_pixel_manipulator.ipynb   # Main Google Colab notebook
+├── pixel_toolkit.py                # Image processing functions
+├── requirements.txt                # Required Python libraries
+├── outputs/                        # Sample output images (8 PNG files)
+└── README.md                       # Project documentation
 ```
 
 ## 🧠 Key Takeaways
