@@ -5,9 +5,6 @@
   <a href="https://colab.research.google.com/github/YOUR_USERNAME/image-pixel-manipulator/blob/main/image_pixel_manipulator.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
   </a>
-  <img src="https://img.shields.io/badge/python-3.9%2B-blue" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-only-013243?logo=numpy" alt="NumPy">
-  <img src="https://img.shields.io/badge/level-intermediate-orange" alt="Level">
 </p>
 
 ---
